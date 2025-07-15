@@ -1,0 +1,17 @@
+{
+  "name": "setup-backend",
+  "version": "1.0.0",
+  "description": "backend dev",
+  "keywords": [
+    "javascript",
+    "and",
+    "subham"
+  ],
+  "license": "ISC",
+  "author": "SUBHAM",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
